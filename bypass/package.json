@@ -1,0 +1,56 @@
+{
+  "_from": "bypass@0.0.2",
+  "_id": "bypass@0.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-ANMp1/uJkKeubeq4b5x89tT5ken9ta7ENrFT3fV41XGe4XncC9ZWE19jq9WUCt5ZmjiQsqHR1j4jyoxhMgqgZw==",
+  "_location": "/bypass",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "bypass@0.0.2",
+    "name": "bypass",
+    "escapedName": "bypass",
+    "rawSpec": "0.0.2",
+    "saveSpec": null,
+    "fetchSpec": "0.0.2"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/bypass/-/bypass-0.0.2.tgz",
+  "_shasum": "51880564485af7b369cfa4e3558cdeede0cfda8f",
+  "_spec": "bypass@0.0.2",
+  "_where": "/home/runner/Le-Quang-Lam-1",
+  "author": {
+    "name": "Yorkie Neil",
+    "email": "yorkiefixer@gmail.com"
+  },
+  "bin": {
+    "bypass": "bin/bypass"
+  },
+  "bugs": {
+    "url": "https://github.com/yorkie/node-bypass/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "config your bypass of proxy by using `networksetup` tool",
+  "homepage": "https://github.com/yorkie/node-bypass",
+  "keywords": [
+    "bypass",
+    "command",
+    "line"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "bypass",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yorkie/node-bypass.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.2"
+}
